@@ -27,3 +27,5 @@ The model follows a **Star Schema** with one Fact table and multiple Dimension t
 
 📂 File included: `Sales_Dashboard_2025.pbix`  
 Open in **Power BI Desktop** to explore the full report.
+Dashboard Image
+https://github.com/Sunny279k/Power-Bi-Sales-Dashboard-2025/blob/main/Screenshot%202025-08-27%20125533.png
